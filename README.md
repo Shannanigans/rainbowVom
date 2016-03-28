@@ -3,8 +3,6 @@ Transitional linear gradients
 
 <a href="http://shannanigans.github.io/rainbowVom/">DEMO</a>
 
-Documentation coming soon&#x2122;
-
 Example HTML<br>
 <code>&lt;div class="rainbow"&gt;Rainbow Vom&lt;/div&gt;</code>
 
