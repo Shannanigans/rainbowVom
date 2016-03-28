@@ -6,7 +6,7 @@ Transitional linear gradients
 Documentation coming soon&#x2122;
 
   Example HTML
-  <code><div class="rainbow">Rainbow Vom</div></code>
+  <code>&lt;div class="rainbow"&gt;Rainbow Vom&lt;/div&gt;</code>
 
   Instantiate a new Rainbow Vom object in javascript.
   <code>var oRainbowVom = new RainbowVom('.rainbow');</code>
