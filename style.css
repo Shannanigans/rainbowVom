@@ -21,3 +21,15 @@ div[class^="col-"]
     padding: 0;
     margin: 0;
 }
+
+@media only screen and (min-width: 768px) {
+   .title-responsive { font-size: 20em; }
+}
+
+@media only screen and (max-width: 768px) {
+   .title-responsive { font-size: 15em; }
+}
+
+@media only screen and (max-width: 425px) {
+   .title-responsive { font-size: 10em; }
+}
