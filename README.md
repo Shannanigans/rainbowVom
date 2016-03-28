@@ -27,7 +27,7 @@ Call the <strong>setDegree</strong> method to set the linear gradient degree.<br
 <code>oRainbowVom.setDegree('180');</code>
   
 Call the <strong>setComplimentaryColorRule</strong> method to set the complimentary colour rule.<br>
-<code>oRainbowVom.setComplimentaryColorRule('direct');</code>
+<code>oRainbowVom.setComplimentaryColorRule('direct');</code><br>
 Options include:<br>
 'none' (Default)<br>
 'direct'<br>
