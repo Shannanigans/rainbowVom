@@ -1,0 +1,8 @@
+@font-face {
+    font-family: black_sand;
+    src: url(/font/black_sand.otf);
+}
+
+.font-black_sand{
+    font-family: black_sand;
+}
